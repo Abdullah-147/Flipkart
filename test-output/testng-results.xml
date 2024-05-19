@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-19T21:06:13 IST" name="Suite" finished-at="2024-05-19T21:06:49 IST" duration-ms="36143">
+    <groups>
+    </groups>
+    <test started-at="2024-05-19T21:06:13 IST" name="Test" finished-at="2024-05-19T21:06:49 IST" duration-ms="36143">
+      <class name="Testcases.Flipkart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcases.Flipkart@41e36e46]" started-at="2024-05-19T21:06:03 IST" name="setUp" finished-at="2024-05-19T21:06:13 IST" duration-ms="9803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Flipkart_flow1()[pri:1, instance:Testcases.Flipkart@41e36e46]" started-at="2024-05-19T21:06:13 IST" name="Flipkart_flow1" finished-at="2024-05-19T21:06:28 IST" duration-ms="14460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkart_flow1 -->
+        <test-method signature="Flipkart_flow2()[pri:2, instance:Testcases.Flipkart@41e36e46]" started-at="2024-05-19T21:06:28 IST" name="Flipkart_flow2" finished-at="2024-05-19T21:06:36 IST" duration-ms="8589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkart_flow2 -->
+        <test-method signature="Flipkart_flow3()[pri:3, instance:Testcases.Flipkart@41e36e46]" started-at="2024-05-19T21:06:36 IST" name="Flipkart_flow3" finished-at="2024-05-19T21:06:49 IST" duration-ms="13016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkart_flow3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.Flipkart@41e36e46]" started-at="2024-05-19T21:06:49 IST" name="tearDown" finished-at="2024-05-19T21:06:50 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
